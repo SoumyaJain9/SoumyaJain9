@@ -1,16 +1,10 @@
 # <p align="center"> ⚡ CODESPACE OF SOUMYA JAIN ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;👋+Soumya+Jain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;👋+Soumya+Jain;>+Access+Granted;>+Initializing+Terminal" alt="Typing SVG" />
 </p>
 
 ---
-
-### 🌐 Terminal Overview
-- 🔭 **Focus:** Architecting scalable digital solutions.
-- 🌱 **Current Sprint:** Deep diving into system design and data-driven logic.
-- 💬 **Collaborations:** Open to hackathons and high-impact projects.
-- ⚡ **Aesthetic:** Dark themes, neon accents, and square dials.
 
 ### 🤝 Connect with Me
 <p align="left">
@@ -21,6 +15,12 @@
   <img src="https://img.shields.io/badge/Gmail-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
 </a>
 </p>
+
+### 🌐 Terminal Overview
+- 🔭 **Focus:** Architecting scalable digital solutions.
+- 🌱 **Current Sprint:** Deep diving into system design and data-driven logic.
+- 💬 **Collaborations:** Open to hackathons and high-impact projects.
+- ⚡ **Aesthetic:** Dark themes, neon accents, and square dials.
 
 ---
 
