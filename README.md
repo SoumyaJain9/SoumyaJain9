@@ -10,14 +10,14 @@
 - 🔭 **Currently working on:** Mastering Backend with Node.js & MongoDB.
 - 🌱 **Learning Path:** Advanced System Design and Scalable Architectures.
 - 💬 **Ask me about:** React, Next.js, Java, and UI Design.
-- 📫 **How to reach me:** `[Your Email Here]`
+- 📫 **How to reach me:** `soumya09062006@gmail.com`
 - ⚡ **Fun fact:** I prefer square dials and dark modes.
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaJain9&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
