@@ -1,7 +1,7 @@
 # <p align="center"> ⚡ CODESPACE OF SOUMYA JAIN ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;Building+the+Future...;Exploring+the+Digital+Frontier" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;👋+Soumya+Jain" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,17 @@
 - 🔭 **Focus:** Architecting scalable digital solutions.
 - 🌱 **Current Sprint:** Deep diving into system design and data-driven logic.
 - 💬 **Collaborations:** Open to hackathons and high-impact projects.
-- 📫 **Direct Line:** `soumya09062006@gmail.com`
 - ⚡ **Aesthetic:** Dark themes, neon accents, and square dials.
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/soumya-jain-353441336/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00F2FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+<a href="mailto:soumya09062006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+</a>
+</p>
 
 ---
 
@@ -24,11 +33,13 @@
 
 ### 💻 Tech Stack
 
-| Development | Data & Logic | Tools & Design |
+| Frontend & Animation | Backend & Logic | Database & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js | <img src="https://skillicons.dev/icons?i=figma" width="45" /><br>Figma |
-| <img src="https://skillicons.dev/icons?i=react" width="45" /><br>React | <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB | <img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br>Tailwind | <img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java | <img src="https://skillicons.dev/icons?i=vscode" width="45" /><br>VS Code |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB |
+| <img src="https://skillicons.dev/icons?i=react" width="45" /><br>React | <img src="https://skillicons.dev/icons?i=express" width="45" /><br>Express | <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br>Tailwind | <img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java | <img src="https://skillicons.dev/icons?i=sqlite" width="45" /><br>SQLite |
+| <img src="https://skillicons.dev/icons?i=framer" width="45" /><br>Framer | <img src="https://skillicons.dev/icons?i=prisma" width="45" /><br>Prisma | <img src="https://skillicons.dev/icons?i=postman" width="45" /><br>Postman |
+| <img src="https://skillicons.dev/icons?i=js" width="45" /><br>GSAP/JS | <img src="https://skillicons.dev/icons?i=figma" width="45" /><br>Figma | <img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git |
 
 ---
 
@@ -39,16 +50,6 @@
 </p>
 
 ---
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/soumya-jain-353441336/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00F2FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-</a>
-<a href="mailto:soumya09062006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
-</a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=60&section=footer" width="100%"/>
