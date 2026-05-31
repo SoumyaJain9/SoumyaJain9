@@ -1,5 +1,4 @@
 # <p align="center"> ⚡ CODESPACE OF SOUMYA JAIN ⚡ </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;👋+Soumya+Jain;>+Access+Granted;>+Initializing+Terminal" alt="Typing SVG" />
 </p>
@@ -33,13 +32,40 @@
 
 ### 💻 Tech Stack
 
-| Frontend & Animation | Backend & Logic | Database & Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB |
-| <img src="https://skillicons.dev/icons?i=react" width="45" /><br>React | <img src="https://skillicons.dev/icons?i=express" width="45" /><br>Express | <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br>Tailwind | <img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java | <img src="https://skillicons.dev/icons?i=sqlite" width="45" /><br>SQLite |
-| <img src="https://skillicons.dev/icons?i=framer" width="45" /><br>Framer | <img src="https://skillicons.dev/icons?i=prisma" width="45" /><br>Prisma | <img src="https://skillicons.dev/icons?i=postman" width="45" /><br>Postman |
-| <img src="https://skillicons.dev/icons?i=js" width="45" /><br>GSAP/JS | <img src="https://skillicons.dev/icons?i=figma" width="45" /><br>Figma | <img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git |
+**Frontend & Animation**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="35" /> Next.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="35" /> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="35" /> TypeScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="35" /> Tailwind CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="35" /> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=framer" width="35" /> Framer Motion
+</p>
+
+**Backend & Logic**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="35" /> Python &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="35" /> FastAPI &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="35" /> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="35" /> Express &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="35" /> Java &nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="35" /> Prisma
+</p>
+
+**Database & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="35" /> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="35" /> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="35" /> SQLite &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="35" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="35" /> Postman &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="35" /> Figma &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="35" /> VS Code &nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" width="35" /> PyCharm
+</p>
 
 ---
 
