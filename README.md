@@ -34,37 +34,31 @@
 
 **Frontend & Animation**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="22" /> Next.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="22" /> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="22" /> TypeScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="22" /> Tailwind CSS &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="22" /> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=framer" width="22" /> Framer Motion
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
 **Backend & Logic**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="22" /> Python &nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="22" /> FastAPI &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="22" /> Node.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="22" /> Express &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="22" /> Java &nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma" width="22" /> Prisma
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 **Database & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" width="22" /> PostgreSQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="22" /> SQLite &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="22" /> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="22" /> Postman &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="22" /> Figma &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="22" /> VS Code &nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm" width="22" /> PyCharm
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ---
 
